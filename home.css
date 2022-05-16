@@ -1,0 +1,16 @@
+#coupon{
+    height:200px;
+    width:400px;
+    background-color: gray;
+    margin:auto;
+    z-index:100;
+    /* visibility:hidden; */
+    display: block;
+    position: absolute;
+    margin-top: -40px;
+    margin-left:37%;
+    background-image: url("coupon2.jpeg");
+    background-size: cover;
+    background-size:100% 200px ;
+    
+}
